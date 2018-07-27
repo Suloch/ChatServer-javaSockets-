@@ -1,7 +1,7 @@
 # ChatServer
 This is an implementation of basic Chat server using java sockets.
-The can handle more than one chatroom at a time and also more than one two users in
-the chatroom.
+The server can handle more than one chatroom at a time and also more than one two users in
+the same chatroom.
 
 ## Compiling
 Compiling the server
